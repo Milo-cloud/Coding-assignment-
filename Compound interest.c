@@ -2,6 +2,7 @@
 /*
 AUTHOR:PETER NYONGESA
 DATE:23/09/2024
+REG NO:CT101/G/23516/24
 */
 #include <stdio.h>
 #include <math.h>
